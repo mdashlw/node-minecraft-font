@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "pngjs": "^6.0.0",
-    "skia-canvas": "^0.9.24"
+    "skia-canvas": "^0.9.25"
   }
 }
