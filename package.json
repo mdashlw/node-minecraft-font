@@ -1,8 +1,8 @@
 {
-  "name": "minecraft-font",
-  "version": "0.1.0",
-  "description": "",
   "type": "module",
+  "name": "minecraft-font",
+  "version": "0.2.0",
+  "description": "",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
   "author": "mdashlw <mdashlw@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "pngjs": "^6.0.0",
-    "skia-canvas": "^0.9.25"
+    "canvas": "^2.8.0",
+    "pngjs": "^6.0.0"
   }
 }
